@@ -3,8 +3,8 @@ Projeto simples de landing page para prática de desenvolvimento front-end.
 O design foi gerado pelo ChatGPT e o desenvolvimento realizado por mim utilizando HTML e CSS.
 
 🚀 Tecnologias Utilizadas
-HTML5
 
+HTML5
 CSS3
 
 📌 Objetivo
